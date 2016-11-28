@@ -15,3 +15,5 @@ To run the repo you'll need:
 * [Fito](https://bitbucket.org/elsonidoq/fito)(yeah, I sould migrate it to github and document it a lil bit)
 * matplotlib
 * jupyter notebook
+* Mongodb (to store the temperatures)
+* Rabbitmq (to parallelize scrapping)
