@@ -1,7 +1,7 @@
 # bsas-temperatures
 Should I buy an air conditioner?
 
-So, I have a 2 year old son and summer is comming. I wouldn't really buy myself an AC, I can leave without it, but I wouldn't like my toddler having trouble to sleep because of the hot days.
+So, I have a 2 year old son and summer is comming. I wouldn't really buy myself an AC, I can live without it, but I wouldn't like my toddler having trouble to sleep because of the hot days.
 
 This is what a data scientist should do:
 * Get some data
